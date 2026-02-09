@@ -1,0 +1,22 @@
+Daftar Prompt AI (Gemini) yang digunakan:
+
+1. "Buat program (Java dan Python) menggunakan struktur data array (fixed-size array) dengan kapasitas 10, untuk menyimpan sejumlah data mahasiswa (nim dan nama). Program memiliki menu sebagai berikut:
+    1.    Insert at beginning (data baru ditempatkan di blok pertama)
+    2.    Insert at given position (data baru ditempatkan di blok nomor sesuai pilihan)
+    3.    Insert at end (data baru ditambahkan setelah data terakhir)
+    4.    Delete from beginning (hapus data di blok 1)
+    5.    Delete given position (hapus data di blok yang dipilih)
+    6.    Delete from end (hapus data terakhir)
+    7.    Delete first occurence (hapus data pertama yang ditemukan)
+    8.    Show data (tampilkan semua data di array)
+    9.    Exit
+
+    aku diberikan tugas seperti ini di mata kuliah struktur data, coba buatkan dulu yang python!"
+
+2. "kamu udah lihat kodeku yang array.py kan? kira kira dari kode itu bisa dibuat lebih efisien ga atau lebih bagus?"
+
+3. "bagaimana jika ingin ketika input di setiap menunya diberikan logika kembali ke menu awal juga?"
+
+4. "nahh okenih, sekarang buat lagi file baru yang persis seperti logika disini tapi dengan java"
+
+5. "cek semua fileku yang ada di folder struktur data ini. dari py dan juga java. apakah sudah memenuhi kriteria tugas yang diberikan?"
